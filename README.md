@@ -30,7 +30,7 @@ Here, you’ll find:
 
 ### 🌐 Let’s Connect!
 
-📌 [LinkedIn](www.linkedin.com/in/hamna-shoukat-b5b520324)  
+📌 [LinkedIn](https://www.linkedin.com/in/hamna-shoukat-b5b520324) 
 
 Let’s learn, collaborate, and grow together—one repo at a time!  
 You bring the curiosity, I’ll bring the code 🍪💻
