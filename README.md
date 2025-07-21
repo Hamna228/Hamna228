@@ -10,7 +10,7 @@ I’m passionate about transforming data into insights and creating impactful vi
 
 Here, you’ll find:
 
-- 🛠️ Projects I’ve built using tools like Power BI, Tableau, Python, and SQL  
+- 🛠️ Projects I’ve built using tools like Power BI, Tableau.  
 - 📊 Interactive dashboards and visual reports for real-world datasets  
 - 📚 Insights, learnings, and challenges I’ve tackled in the field of data analytics  
 
