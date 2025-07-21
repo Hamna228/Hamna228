@@ -32,5 +32,4 @@ Here, you’ll find:
 
 📌 [LinkedIn](https://www.linkedin.com/in/hamna-shoukat-b5b520324) 
 
-Let’s learn, collaborate, and grow together—one repo at a time!  
-You bring the curiosity, I’ll bring the code 🍪💻
+Let’s connect and turn data into meaningful stories that make an impact.
